@@ -1,8 +1,11 @@
-# II.1102 – Algorithmique et Programmation 
-## Projet : 7 Wonders Architects
-### Auteur : Charles Mailley Sofiane Sifaoui Charles Radolanirina
-ISEP - A1 - G7C  
-Date de rendu  : fin janvier 2023
+# Projet : 7 Wonders Architects
 
-Pour ouvrir le projet, il suffit simplement de faire open project dans l'apllication IntelliJ.
-MainApplication est le fichier permettant l'execution du programme. Il est situé dans : src.main.java.com.isep.
+Ce projet codé en java est une reprise du jeux de société 7 Wonders Architects.
+
+## Pour jouer au jeu:
+
+Ouvrir avec IntelliJ  
+Ouvrir le script dans : src/main/java/com/isep/MainApplication.java
+Executez le (run)
+
+Il est possible qu'il soit necessaire de reload le projet avec Maven.
